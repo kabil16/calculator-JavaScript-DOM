@@ -1,0 +1,31 @@
+table{
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    border-spacing: 3px 3px;
+    border: none;
+    background-color: floralwhite;
+}
+td{
+    height: 30px;
+    width: 50px;
+    cursor: pointer;
+    
+}
+input{
+    padding: 0;
+    margin: 0;
+    border: none;
+    width: 100%;
+}
+.tdinput{
+    padding: 0;
+    margin: 0;
+}
+.display{
+    border: 1px solid black;
+    border-spacing: 3px 3px;
+    padding: 0;
+    margin: 0;
+    
+}
